@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **My code is eco-friendly – it recycles bugs into features. 🌱🐜**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://dev.to/meetshah07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meetshah07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meetshah7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetshah7" height="30" width="40" /></a>
