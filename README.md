@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetshah07&label=Profile%20views&color=0e75b6&style=flat" alt="meetshah07" /> </p>
 
-- 🔭 I’m currently working on **UrbaneThreads: A stylish   E-commerce experience with React, Spring Boot, MySQL, and a secure Payment Gateway for seamless transactions.**
+- 🔭 I’m currently working on **UrbaneThreads: A stylish E-commerce experience with React, Spring Boot, MySQL, and a secure Payment Gateway.**
 
 - 🌱 I’m currently learning **Java Script, ReactJs, and AWS.**
 
