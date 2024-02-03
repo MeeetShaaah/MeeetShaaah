@@ -25,9 +25,3 @@
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeeetShaaah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MeeetShaaah&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
-
-
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
