@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MeeetShaaah/MeeetShaaah/blob/main/github-header-image.png)
+![MasterHead](https://github.com/MeeetShaaah/MeeetShaaah/blob/main/7_github-header-image.png)
 <h1 align="center"></h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
