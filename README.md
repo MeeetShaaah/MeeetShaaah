@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **UrbaneThreads: A stylish E-commerce experience with React, Spring Boot, MySQL, and a secure Payment Gateway.**
 
-- 🌱 I’m currently learning **Java Script, ReactJs, and AWS.**
+- 🌱 I’m currently learning **Kafka.**
 
 - 👯 I’m looking to collaborate on **Java Back-End Projects...!!!**
 
