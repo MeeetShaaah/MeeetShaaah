@@ -4,17 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeeetShaaah&label=Profile%20views&color=0e75b6&style=flat" alt="MeeetShaaah" /> </p>
 
-- 🔭 I’m currently working on **UrbaneThreads: A stylish E-commerce experience with React, Spring Boot, MySQL, and a secure Payment Gateway.**
+<!-- - 🔭 I’m currently working on **an AI-driven project to deliver intelligent solutions.**-->
 
-- 🌱 I’m currently learning **Kafka.**
+- 🌱 I’m currently learning **AI** and exploring its applications to build intelligent solutions.
+  
+- 👯 I’m looking to collaborate on **Java back-end projects**...!!!
 
-- 👯 I’m looking to collaborate on **Java Back-End Projects...!!!**
+- 💬 Ask me about **Java, Spring Boot, AWS, Kafka**, or any general software development questions.
 
-- 💬 Ask me about **Java, Spring Boot and any general software development questions.**
+- 📫 How to reach me: **meetshah1799@gmail.com**
 
-- 📫 How to reach me **meetshah1799@gmail.com**
+- ⚡ Fun fact: **My code is eco-friendly – it recycles bugs into features. 🌱🐜**
 
-- ⚡ Fun fact **My code is eco-friendly – it recycles bugs into features. 🌱🐜**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meeet.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetshah7) 
 
